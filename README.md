@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EnriqueBrambila00/EnriqueBrambila00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Enrique Brambila
 
-Here are some ideas to get you started:
+**Ingeniero en Sistemas Computacionales** · Colima, México 🇲🇽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta construir aplicaciones web completas, desde la interfaz hasta la base de datos.
+
+</div>
+
+---
+
+## 🛠️ Tecnologías
+
+![React](https://skillicons.dev/icons?i=react,vite,js,ts,nodejs,express,python,csharp,mysql,prisma,git,github,vercel)
+
+> Tecnologías principales: JavaScript/TypeScript, React, Node.js, Express, Python, C#, MySQL, Prisma ORM y Git/GitHub.
+
+---
+
+## 🚀 Proyectos principales
+
+### 🔔 Campanita Web
+Plataforma web desarrollada como parte de tu servicio social para el sitio arqueológico La Campana.
+
+| Parte | Repositorio |
+|-------|-------------|
+| 🎨 Frontend (React + Vite) | [CampanitaWebFront](https://github.com/EnriqueBrambila00/CampanitaWebFront) |
+| ⚙️ Backend (Node.js + Prisma) | [campanitaweb](https://github.com/EnriqueBrambila00/campanitaweb) |
+- 🔗 [Ver demo en vivo](https://campanitatecnm.onrender.com)
+---
+
+### 🏛️ Sedeco · Gobierno de Colima
+Plataforma web de consultoría digital para negocios, desarrollada para la Secretaría de Desarrollo Económico de Colima con formularios interactivos.
+
+| Parte | Repositorio |
+|-------|-------------|
+| 🎨 Frontend (React + Vite) | [SedecoWeb](https://github.com/EnriqueBrambila00/SedecoWeb) |
+| ⚙️ Backend (Node.js + Prisma) | [SedecoBackend](https://github.com/EnriqueBrambila00/SedecoBackend) |
+- 🔗 [Ver demo en vivo](https://sedecoweb.lg330000.workers.dev)
+---
+
+### 🌽 Divino Antojo
+Tienda en línea de esquites, utilizando IA para los recursos visuales, desplegada en Vercel.
+
+- 🔗 [Ver demo en vivo](https://divino-antojo-psi.vercel.app)
+- 💻 [Ver código](https://github.com/EnriqueBrambila00/DivinoAntojo)
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: [EnriqueBrambila00](https://www.linkedin.com/in/EnriqueBrambila00)
+- 📧 Correo: enriquebrambila16@gmail.com
+
+---
+
+<div align="center">
+
+⭐ ¡Gracias por visitar mi perfil!
+
+</div>
