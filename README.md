@@ -12,7 +12,7 @@ Me gusta construir aplicaciones web completas, desde la interfaz hasta la base d
 
 ## 🛠️ Tecnologías
 
-![React](https://skillicons.dev/icons?i=react,vite,js,ts,nodejs,express,python,csharp,mysql,prisma,git,github,vercel)
+![React](https://skillicons.dev/icons?i=react,vite,js,ts,nodejs,express,python,cs,mysql,prisma,git,github,vercel)
 
 > Tecnologías principales: JavaScript/TypeScript, React, Node.js, Express, Python, C#, MySQL, Prisma ORM y Git/GitHub.
 
