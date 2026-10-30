@@ -20,7 +20,7 @@ Me gusta construir aplicaciones web completas, desde la interfaz hasta la base d
 
 ## 🚀 Proyectos principales
 
-### 🔔 Campanita Web
+### 🔔 Campanita Web · TecNM Campus Colima 
 Plataforma web desarrollada como parte de tu servicio social para el sitio arqueológico La Campana.
 
 | Parte | Repositorio |
